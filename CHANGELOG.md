@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix a unit test that broke when we added i18n-loader to the webpack config.
+- Fixed a documentation error.
 - Fix use in Node 14.
 
 ## 0.1.0 - 2021-12-14
