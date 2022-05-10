@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies
 
+### Fixed
+- Update test snapshot.
+
 ## [1.0.10] - 2022-05-04
 ### Added
 - Add missing JavaScript dependencies. [#24096]
