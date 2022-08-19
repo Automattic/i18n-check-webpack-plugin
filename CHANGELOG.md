@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add documentation of another problematic pattern (same string with different translator comments).
 
+### Changed
+- Updated package dependencies.
+
 ## [1.0.17] - 2022-07-26
 ### Changed
 - Updated package dependencies. [#25158]
