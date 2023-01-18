@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.26-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Clean up JavaScript eslint issues.
+
 ## [1.0.25] - 2023-01-11
 ### Changed
 - Updated package dependencies.
@@ -125,6 +132,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release.
 
+[1.0.26-alpha]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.0.25...v1.0.26-alpha
 [1.0.25]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.0.24...v1.0.25
 [1.0.24]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.0.23...v1.0.24
 [1.0.23]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.0.22...v1.0.23
