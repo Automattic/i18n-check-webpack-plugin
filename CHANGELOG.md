@@ -9,9 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-### Fixed
-- Updated tests now that Terser's conditionals' optimization is disabled
-
 ## [1.1.11] - 2024-08-29
 ### Changed
 - Updated package dependencies. [#39111]
