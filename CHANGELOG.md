@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.20-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Add keywords in package.json for npm search.
+
 ## [1.1.19] - 2025-03-18
 ### Changed
 - Update package dependencies. [#42511]
@@ -250,6 +257,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release.
 
+[1.1.20-alpha]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.19...v1.1.20-alpha
 [1.1.19]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.18...v1.1.19
 [1.1.18]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.17...v1.1.18
 [1.1.17]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.16...v1.1.17
