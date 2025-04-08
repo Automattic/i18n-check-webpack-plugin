@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add keywords in package.json for npm search.
 
+### Fixed
+- Code: Update stylesheets to use hex instead of named colors.
+
 ## [1.1.19] - 2025-03-18
 ### Changed
 - Update package dependencies. [#42511]
