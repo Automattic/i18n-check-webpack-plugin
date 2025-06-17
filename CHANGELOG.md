@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add a link to the "Known problematic code patterns" documentation in relevant error messages.
+
 ## [1.1.21] - 2025-06-03
 ### Changed
 - Update package dependencies. [#43734]
