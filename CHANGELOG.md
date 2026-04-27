@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.36-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+
 ## [1.1.35] - 2026-03-30
 ### Changed
 - Update package dependencies. [#47799]
@@ -318,6 +325,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release.
 
+[1.1.36-alpha]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.35...v1.1.36-alpha
 [1.1.35]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.34...v1.1.35
 [1.1.34]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.33...v1.1.34
 [1.1.33]: https://github.com/Automattic/i18n-check-webpack-plugin/compare/v1.1.32...v1.1.33
